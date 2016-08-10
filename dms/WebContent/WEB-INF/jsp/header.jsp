@@ -1,0 +1,1 @@
+<img style="-webkit-user-select: none" src="resources/img/Banner.jpg">
